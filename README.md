@@ -106,7 +106,5 @@ The notebook will:
 - Weight optimization: ~5-10 minutes
 - **Total:** ~25-40 minutes on standard CPU
 
-**Note:** All models are trained from scratch each time. This ensures reproducibility and transparency, though it requires more time than loading pre-trained weights.
-
 **Last Updated:** November 10, 2025  
 **Course:** CS5344 Big Data Analytics Technology  
